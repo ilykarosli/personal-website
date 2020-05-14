@@ -1,0 +1,21 @@
+body
+{
+	background-image:
+url("wallpaper/experience.jpg");
+}
+
+h3
+{
+text-align: center;
+font-family: arial black;
+color: #4E2B67;
+font-size: 1cm;
+}
+
+td
+{
+text-align: justify;
+background-color: #874259;
+color: white;
+}
+
